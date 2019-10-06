@@ -43,7 +43,7 @@ git push origin branch-name
     - choose one of question inside `original-questions` or `questions` folder
     - inside `answer` folder, write down your answer
     - file name must `your-name-answer-numberOfQuestions.js`, example `ericksuryadinata-answer-1.js`
-    - if you answer a questions inside `questions` folder your file name must `your-name-answer-uniqueQuestionsCode.js`
+    - if you answer a questions inside `questions` folder your file name must `your-name-answer-uniqueQuestionsCode.js` example `ericksuryadinata-QE0001.js`
 
 3. Create questions
 
